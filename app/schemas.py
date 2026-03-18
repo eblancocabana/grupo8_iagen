@@ -87,3 +87,21 @@ class Chunk(BaseModel):
     year: int
 
 
+class RetrievedContext(BaseModel):
+    chunk_id: str
+    doc_id: str
+    title: str
+    year: int
+    section: str
+    topic: str
+    text: str
+    score: float
+
+
+class SourceReference(BaseModel):
+    doc_id: str
+    title: str
+    year: int
+    chunk_id: str | None = None
+    section: str | None = None
+
