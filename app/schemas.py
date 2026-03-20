@@ -105,3 +105,63 @@ class SourceReference(BaseModel):
     chunk_id: str | None = None
     section: str | None = None
 
+
+class ExerciseEntry(BaseModel):
+    name: str
+    movement_pattern: str
+    sets: int = Field(ge=1, le=8)
+    reps: str
+    target_intensity: str
+    rest_seconds: int = Field(ge=30, le=300)
+    tempo_optional: str | None = None
+    substitution_options: list[str] = Field(default_factory=list)
+    restriction_flags: list[str] = Field(default_factory=list)
+    equipment_required: list[str] = Field(default_factory=list)
+    notes_optional: str | None = None
+
+
+class TrainingSession(BaseModel):
+    day: str
+    session_goal: str
+    estimated_duration_min: int = Field(ge=10, le=180)
+    warmup_notes: list[str] = Field(default_factory=list)
+    exercises: list[ExerciseEntry] = Field(default_factory=list)
+    session_notes: list[str] = Field(default_factory=list)
+    source_refs: list[str] = Field(default_factory=list)
+
+    @model_validator(mode="after")
+    def non_empty_exercises(self) -> "TrainingSession":
+        if not self.exercises:
+            raise ValueError("Each session must include at least one exercise.")
+        return self
+
+
+class PlanWeek(BaseModel):
+    week_number: int = Field(ge=1, le=4)
+    focus: str
+    sessions: list[TrainingSession]
+
+
+class ValidationIssue(BaseModel):
+    code: str
+    severity: Literal["warning", "error"]
+    message: str
+    location: str | None = None
+
+
+class ValidationReport(BaseModel):
+    status: Literal["passed", "passed_with_warnings", "failed"]
+    issues: list[ValidationIssue] = Field(default_factory=list)
+    metrics: dict[str, Any] = Field(default_factory=dict)
+    repair_attempted: bool = False
+    repair_actions: list[str] = Field(default_factory=list)
+
+    @property
+    def warnings(self) -> list[ValidationIssue]:
+        return [issue for issue in self.issues if issue.severity == "warning"]
+
+    @property
+    def errors(self) -> list[ValidationIssue]:
+        return [issue for issue in self.issues if issue.severity == "error"]
+
+
