@@ -1,0 +1,49 @@
+1. J Strength Cond Res. 2025 Mar 1;39(3):386-397. doi: 
+10.1519/JSC.0000000000005000. Epub 2024 Dec 31.
+
+The Influence of Resistance Training on Joint Flexibility in Healthy Adults: A 
+Systematic Review, Meta-analysis, and Meta-regression.
+
+Favro F(1), Roma E(2)(3), Gobbo S(1), Bullo V(1), Di Blasio A(4), Cugusi L(5), 
+Bergamin M(1).
+
+Author information:
+(1)Department of Medicine, University of Padova, Via Giustiniani, Padova, Italy.
+(2)Univ Lyon, UJM Saint-Etienne, Laboratoire Interuniversitaire de Biologie de 
+la Motricité (LIBM), Saint-Etienne, France.
+(3)Department of Statistical Sciences "Paolo Fortunati", University of Bologna, 
+Bologna, Italy.
+(4)Department of Human Movement Science, G. D'Annunzio University of 
+Chieti-Pescara, Via dei Vestini, Chieti, Italy ; and.
+(5)Department of Biomedical Sciences, University of Sassari, Sassari, Italy.
+
+Favro, F, Roma, E, Gobbo, S, Bullo, V, Di Blasio, A, Cugusi, L, and Bergamin, M. 
+The influence of resistance training on joint flexibility in healthy adults: A 
+systematic review, meta-analysis, and meta-regression. J Strength Cond Res 
+39(3): 386-397, 2025-Joint flexibility is a key component of physical fitness. 
+Despite the large body of evidence regarding the effectiveness of muscle 
+stretching exercises, little is known about the effect of resistance training on 
+flexibility. A systematic search was conducted on 9 academic search instruments; 
+inclusion criteria were as follows: healthy adult participants (age ≥18 years); 
+resistance training intervention (duration ≥4 weeks); at least one flexibility 
+outcome. Risk of bias was assessed using the RoB-2 and ROBINS-I tools. A 3-level 
+meta-analysis was conducted, with multiple outcomes nested within each study. A 
+moderator analysis was conducted by fitting a meta-regression model. 
+Significance level was set at p < 0.05. We included 36 studies (1,469 
+participants). None of the included papers resulted at a low risk of bias. The 
+pooled effect size for resistance training on flexibility was g = 0.6325, with 
+95% CI: 0.4762 to 0.7888 ( p < 0.0001). There was a substantial amount of 
+heterogeneity between studies. Exercise intensity was a significant moderator ( 
+p < 0.0225, high vs low), based on 129 and unique effect sizes, and sex ( p = 
+0.0429). Activity level and age were nonsignificant moderators. Resistance 
+training could be implemented as a strategy to improve joint flexibility, with 
+high-intensity protocols resulting in a magnified effect. However, the high 
+overall risk of bias and substantial heterogeneity limit our ability to draw 
+definitive conclusions.
+
+Copyright © 2024 The Author(s). Published by Wolters Kluwer Health, Inc. on 
+behalf of the National Strength and Conditioning Association.
+
+DOI: 10.1519/JSC.0000000000005000
+PMCID: PMC11841725
+PMID: 39787531 [Indexed for MEDLINE]

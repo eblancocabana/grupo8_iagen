@@ -1,0 +1,39 @@
+1. J Strength Cond Res. 2017 Dec;31(12):3508-3523. doi: 
+10.1519/JSC.0000000000002200.
+
+Strength and Hypertrophy Adaptations Between Low- vs. High-Load Resistance 
+Training: A Systematic Review and Meta-analysis.
+
+Schoenfeld BJ(1), Grgic J(2), Ogborn D(3), Krieger JW(4).
+
+Author information:
+(1)Department of Health Science, Lehman College, Bronx, New York.
+(2)Institute of Sport, Exercise and Active Living (ISEAL), Victoria University, 
+Melbourne, Australia.
+(3)Ogborn Research & Consulting, Winnipeg, Manitoba, Canada.
+(4)Weightology, LLC, Issaquah, Washington.
+
+Schoenfeld, BJ, Grgic, J, Ogborn, D, and Krieger, JW. Strength and hypertrophy 
+adaptations between low- vs. high-load resistance training: a systematic review 
+and meta-analysis. J Strength Cond Res 31(12): 3508-3523, 2017-The purpose of 
+this article was to conduct a systematic review of the current body of 
+literature and a meta-analysis to compare changes in strength and hypertrophy 
+between low- vs. high-load resistance training protocols. Searches of 
+PubMed/MEDLINE, Cochrane Library, and Scopus were conducted for studies that met 
+the following criteria: (a) an experimental trial involving both low-load 
+training [≤60% 1 repetition maximum (1RM)] and high-load training (>60% 1RM); 
+(b) with all sets in the training protocols being performed to momentary 
+muscular failure; (c) at least one method of estimating changes in muscle mass 
+or dynamic, isometric, or isokinetic strength was used; (d) the training 
+protocol lasted for a minimum of 6 weeks; (e) the study involved participants 
+with no known medical conditions or injuries impairing training capacity. A 
+total of 21 studies were ultimately included for analysis. Gains in 1RM strength 
+were significantly greater in favor of high- vs. low-load training, whereas no 
+significant differences were found for isometric strength between conditions. 
+Changes in measures of muscle hypertrophy were similar between conditions. The 
+findings indicate that maximal strength benefits are obtained from the use of 
+heavy loads while muscle hypertrophy can be equally achieved across a spectrum 
+of loading ranges.
+
+DOI: 10.1519/JSC.0000000000002200
+PMID: 28834797 [Indexed for MEDLINE]

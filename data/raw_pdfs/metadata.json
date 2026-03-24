@@ -1,0 +1,122 @@
+[
+  {
+    "doc_id": "who_physical_activity_2020",
+    "title": "WHO Guidelines on Physical Activity and Sedentary Behaviour",
+    "year": 2020,
+    "language": "en",
+    "source_type": "official_guideline",
+    "topic": "general_health",
+    "filepath": "data/raw_pdfs/who_physical_activity_2020.pdf",
+    "inclusion_reason": "Foundational public-health guideline for activity dose and general-health framing."
+  },
+  {
+    "doc_id": "nsca_professional_standards_2017",
+    "title": "NSCA Strength and Conditioning Professional Standards and Guidelines",
+    "year": 2017,
+    "language": "en",
+    "source_type": "professional_guideline",
+    "topic": "beginner_safety",
+    "filepath": "data/raw_pdfs/nsca_professional_standards_2017.pdf",
+    "inclusion_reason": "Conservative professional standard for progression, supervision, and safety constraints."
+  },
+  {
+    "doc_id": "acsm_progression_models_2009",
+    "title": "American College of Sports Medicine Position Stand. Progression Models in Resistance Training for Healthy Adults",
+    "year": 2009,
+    "language": "en",
+    "source_type": "position_stand_abstract",
+    "topic": "progression",
+    "filepath": "data/raw_pdfs/acsm_progression_models_2009.txt",
+    "inclusion_reason": "Still canonical for progression logic, rep ranges, frequency, and rest recommendations."
+  },
+  {
+    "doc_id": "hypertrophy_umbrella_review_2022",
+    "title": "Resistance Training Variables for Optimization of Muscle Hypertrophy: An Umbrella Review",
+    "year": 2022,
+    "language": "en",
+    "source_type": "umbrella_review",
+    "topic": "hypertrophy",
+    "filepath": "data/raw_pdfs/hypertrophy_umbrella_review_2022.pdf",
+    "inclusion_reason": "Open umbrella review with broad coverage of hypertrophy variables and programming tradeoffs."
+  },
+  {
+    "doc_id": "low_vs_high_load_2017",
+    "title": "Strength and Hypertrophy Adaptations Between Low- vs. High-Load Resistance Training: A Systematic Review and Meta-analysis",
+    "year": 2017,
+    "language": "en",
+    "source_type": "systematic_review_abstract",
+    "topic": "load_intensity",
+    "filepath": "data/raw_pdfs/low_vs_high_load_2017.txt",
+    "inclusion_reason": "Core evidence for home/basic equipment viability and load-independent hypertrophy."
+  },
+  {
+    "doc_id": "training_frequency_hypertrophy_2019",
+    "title": "How Many Times per Week Should a Muscle Be Trained to Maximize Muscle Hypertrophy? A Systematic Review and Meta-analysis",
+    "year": 2019,
+    "language": "en",
+    "source_type": "systematic_review_abstract",
+    "topic": "frequency",
+    "filepath": "data/raw_pdfs/training_frequency_hypertrophy_2019.txt",
+    "inclusion_reason": "Strong evidence that weekly volume matters more than frequency when volume is equated."
+  },
+  {
+    "doc_id": "minimal_dose_resistance_2017",
+    "title": "A Minimal Dose Approach to Resistance Training for the Older Adult; the Prophylactic for Aging",
+    "year": 2017,
+    "language": "en",
+    "source_type": "review_abstract",
+    "topic": "session_duration",
+    "filepath": "data/raw_pdfs/minimal_dose_resistance_2017.txt",
+    "inclusion_reason": "Useful for minimal effective dose and short-session programming logic."
+  },
+  {
+    "doc_id": "elastic_resistance_healthy_adults_2017",
+    "title": "Effects of Elastic Resistance Exercise on Muscle Strength and Functional Performance in Healthy Adults: A Systematic Review and Meta-Analysis",
+    "year": 2017,
+    "language": "en",
+    "source_type": "systematic_review_abstract",
+    "topic": "home_training",
+    "filepath": "data/raw_pdfs/elastic_resistance_healthy_adults_2017.txt",
+    "inclusion_reason": "Directly supports elastic-resistance programming in healthy adults."
+  },
+  {
+    "doc_id": "free_weight_vs_machine_2023",
+    "title": "Effect of Free-Weight vs. Machine-Based Strength Training on Maximal Strength, Hypertrophy and Jump Performance - A Systematic Review and Meta-analysis",
+    "year": 2023,
+    "language": "en",
+    "source_type": "systematic_review",
+    "topic": "equipment_modality",
+    "filepath": "data/raw_pdfs/free_weight_vs_machine_2023.pdf",
+    "inclusion_reason": "Open-access review for equipment substitution and machine-vs-free-weight equivalence."
+  },
+  {
+    "doc_id": "joint_flexibility_rt_2025",
+    "title": "The Influence of Resistance Training on Joint Flexibility in Healthy Adults: A Systematic Review, Meta-analysis, and Meta-regression",
+    "year": 2025,
+    "language": "en",
+    "source_type": "systematic_review_abstract",
+    "topic": "mobility",
+    "filepath": "data/raw_pdfs/joint_flexibility_rt_2025.txt",
+    "inclusion_reason": "Supports the claim that resistance training can improve flexibility without separate stretching blocks."
+  },
+  {
+    "doc_id": "deep_squat_lumbar_kyphosis_2025",
+    "title": "Effects of Lower-Limb Joint Mobility and Core Muscle Activation on Dynamic Lumbar Kyphosis During Deep Squats",
+    "year": 2025,
+    "language": "en",
+    "source_type": "primary_study",
+    "topic": "restrictions_knee_lumbar",
+    "filepath": "data/raw_pdfs/deep_squat_lumbar_kyphosis_2025.pdf",
+    "inclusion_reason": "Biomechanical source for conservative handling of deep knee flexion and lumbar loading."
+  },
+  {
+    "doc_id": "semed_exercise_prescription_2015",
+    "title": "Documento de Consenso SEMED-FEMEDE sobre Prescripcion de Ejercicio Fisico",
+    "year": 2015,
+    "language": "es",
+    "source_type": "official_consensus",
+    "topic": "spanish_guidance",
+    "filepath": "data/raw_pdfs/semed_exercise_prescription_2015.pdf",
+    "inclusion_reason": "Spanish consensus document that improves terminology and local normative alignment."
+  }
+]
