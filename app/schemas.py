@@ -165,3 +165,35 @@ class ValidationReport(BaseModel):
         return [issue for issue in self.issues if issue.severity == "error"]
 
 
+class TrainingPlan(BaseModel):
+    user_summary: str
+    safety_notes: list[str]
+    plan_duration_weeks: int = Field(default=4, ge=1, le=12)
+    weekly_schedule: list[PlanWeek]
+    sources_used: list[SourceReference] = Field(default_factory=list)
+    validation_status: str = "pending"
+    validation_warnings: list[str] = Field(default_factory=list)
+    generation_mode: ExperimentMode
+    repair_applied: bool = False
+    retrieval_query: str | None = None
+    retrieved_context: list[RetrievedContext] = Field(default_factory=list)
+    metadata: dict[str, Any] = Field(default_factory=dict)
+
+    @model_validator(mode="after")
+    def four_week_default(self) -> "TrainingPlan":
+        if self.plan_duration_weeks != len(self.weekly_schedule):
+            raise ValueError("plan_duration_weeks must match weekly_schedule length.")
+        return self
+
+    def to_json(self) -> str:
+        return self.model_dump_json(indent=2)
+
+
+class GenerationTrace(BaseModel):
+    prompt: str
+    raw_output: str
+    retrieval_query: str | None = None
+    repaired_output: str | None = None
+    used_fallback_generator: bool = False
+    model_used: str | None = None
+
