@@ -197,3 +197,35 @@ class GenerationTrace(BaseModel):
     used_fallback_generator: bool = False
     model_used: str | None = None
 
+
+class PipelineResult(BaseModel):
+    profile: UserProfile
+    mode: ExperimentMode
+    plan: TrainingPlan
+    validation: ValidationReport
+    trace: GenerationTrace
+
+    def to_log_dict(self) -> dict[str, Any]:
+        return {
+            "profile": self.profile.model_dump(mode="json"),
+            "mode": self.mode.value,
+            "plan": self.plan.model_dump(mode="json"),
+            "validation": self.validation.model_dump(mode="json"),
+            "trace": self.trace.model_dump(mode="json"),
+        }
+
+
+def extract_json_object(raw_text: str) -> str:
+    raw_text = raw_text.strip()
+    if not raw_text:
+        raise ValueError("The model returned empty output.")
+    if raw_text.startswith("{") and raw_text.endswith("}"):
+        return raw_text
+    start = raw_text.find("{")
+    end = raw_text.rfind("}")
+    if start == -1 or end == -1 or end <= start:
+        raise ValueError("No JSON object found in model output.")
+    candidate = raw_text[start : end + 1]
+    json.loads(candidate)
+    return candidate
+
