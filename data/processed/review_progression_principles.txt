@@ -1,0 +1,10 @@
+# Progression Principles
+
+Simple Progression:
+A short academic prototype only needs clear and defensible progression, not advanced periodization. A useful rule is to keep the first week conservative, stabilize in the second week, and raise volume or effort slightly in weeks three and four.
+
+What To Progress:
+The easiest variables to progress are repetitions, sets on primary lifts, or a small load increase when execution is stable. Progression should be visible in the plan output so that validators can inspect it automatically.
+
+Boundary Conditions:
+Progression should not override restriction management or session duration limits. If the plan is already near the time limit, small load changes or rep targets may be better than adding many new sets.

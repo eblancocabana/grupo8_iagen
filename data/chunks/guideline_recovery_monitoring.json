@@ -1,0 +1,35 @@
+[
+  {
+    "chunk_id": "guideline_recovery_monitoring_chunk_000",
+    "doc_id": "guideline_recovery_monitoring",
+    "section": "Recovery Signals",
+    "page": null,
+    "text": "A practical plan should monitor whether the user can complete sessions with stable technique and without accumulating unusual fatigue. Heavy soreness, persistent discomfort, or repeated loss of form are reasons to scale back rather than push harder.",
+    "topic": "recovery",
+    "evidence_level": "high",
+    "title": "Evidence Brief - Recovery Monitoring and Session Duration",
+    "year": 2023
+  },
+  {
+    "chunk_id": "guideline_recovery_monitoring_chunk_001",
+    "doc_id": "guideline_recovery_monitoring",
+    "section": "Session Duration",
+    "page": null,
+    "text": "Session length should match the declared time budget. Overloaded sessions are a design failure because they reduce adherence and create pressure to rush technique. The easiest correction is to trim accessories or reduce sets before removing the primary movement pattern.",
+    "topic": "recovery",
+    "evidence_level": "high",
+    "title": "Evidence Brief - Recovery Monitoring and Session Duration",
+    "year": 2023
+  },
+  {
+    "chunk_id": "guideline_recovery_monitoring_chunk_002",
+    "doc_id": "guideline_recovery_monitoring",
+    "section": "Rest and Scheduling",
+    "page": null,
+    "text": "Rest periods should be long enough to maintain exercise quality, especially on compound lifts. Hard sessions are easier to tolerate when the week includes at least one easier day or a rest day between demanding sessions.",
+    "topic": "recovery",
+    "evidence_level": "high",
+    "title": "Evidence Brief - Recovery Monitoring and Session Duration",
+    "year": 2023
+  }
+]

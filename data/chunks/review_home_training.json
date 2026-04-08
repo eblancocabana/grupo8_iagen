@@ -1,0 +1,35 @@
+[
+  {
+    "chunk_id": "review_home_training_chunk_000",
+    "doc_id": "review_home_training",
+    "section": "Equipment Reality",
+    "page": null,
+    "text": "Home-based training can still cover squat, hinge, push, pull, and trunk patterns with dumbbells, bands, and bodyweight. Exercise selection should emphasize simple setup and stable positions. Single-leg work and floor-based pressing are often practical when heavier equipment is unavailable.",
+    "topic": "home_training",
+    "evidence_level": "moderate_high",
+    "title": "Evidence Brief - Home-Based Resistance Training",
+    "year": 2021
+  },
+  {
+    "chunk_id": "review_home_training_chunk_001",
+    "doc_id": "review_home_training",
+    "section": "Programming",
+    "page": null,
+    "text": "Moderate repetition ranges are useful because home loads may be limited. Progression can come from extra repetitions, slower tempo, or an additional set before a large load increase. Home plans should avoid depending on niche machines or highly technical lifts.",
+    "topic": "home_training",
+    "evidence_level": "moderate_high",
+    "title": "Evidence Brief - Home-Based Resistance Training",
+    "year": 2021
+  },
+  {
+    "chunk_id": "review_home_training_chunk_002",
+    "doc_id": "review_home_training",
+    "section": "Conservative Advice",
+    "page": null,
+    "text": "When the equipment list is narrow, it is better to repeat a few reliable movements than to invent unusual exercises. Substitutions should keep the same broad pattern and the same conservative intent.",
+    "topic": "home_training",
+    "evidence_level": "moderate_high",
+    "title": "Evidence Brief - Home-Based Resistance Training",
+    "year": 2021
+  }
+]

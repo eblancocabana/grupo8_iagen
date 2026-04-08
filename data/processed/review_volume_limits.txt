@@ -1,0 +1,10 @@
+# Volume Limits
+
+Experience Level:
+Beginners generally need less weekly volume than intermediate or advanced trainees. A plan should avoid disproportionate workloads in the first block, especially if the user also has restrictions or limited session time.
+
+Upper Bounds:
+A moderate number of weekly work sets per movement pattern is usually enough for a prototype. When volume rises too quickly, the quality of execution and the clarity of recovery feedback can deteriorate. This is especially relevant when sessions are short.
+
+Validator Use:
+Heuristic limits are acceptable if they are simple, conservative, and applied consistently across modes. The goal is to detect obviously high workloads, not to solve individualized dose optimization.

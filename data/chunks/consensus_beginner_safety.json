@@ -1,0 +1,35 @@
+[
+  {
+    "chunk_id": "consensus_beginner_safety_chunk_000",
+    "doc_id": "consensus_beginner_safety",
+    "section": "Entry Point",
+    "page": null,
+    "text": "Beginners respond well to conservative loading, repeated skill practice, and clear instructions about stopping before technical breakdown. Early weeks should focus on finding tolerable ranges, learning setup, and building confidence with the routine.",
+    "topic": "beginner_safety",
+    "evidence_level": "high",
+    "title": "Evidence Brief - Beginner Safety and Load Management",
+    "year": 2020
+  },
+  {
+    "chunk_id": "consensus_beginner_safety_chunk_001",
+    "doc_id": "consensus_beginner_safety",
+    "section": "Intensity",
+    "page": null,
+    "text": "Working around a moderate effort zone is usually sufficient at the start. Reaching near-maximal effort is unnecessary for a first four-week plan. If a user has restrictions or uncertainty, the program should become more conservative rather than more aggressive.",
+    "topic": "beginner_safety",
+    "evidence_level": "high",
+    "title": "Evidence Brief - Beginner Safety and Load Management",
+    "year": 2020
+  },
+  {
+    "chunk_id": "consensus_beginner_safety_chunk_002",
+    "doc_id": "consensus_beginner_safety",
+    "section": "Session Management",
+    "page": null,
+    "text": "A short warmup, two to four primary exercises, and a small amount of trunk or conditioning work is often enough. Excessive volume or long sessions can reduce adherence and make recovery harder to judge.",
+    "topic": "beginner_safety",
+    "evidence_level": "high",
+    "title": "Evidence Brief - Beginner Safety and Load Management",
+    "year": 2020
+  }
+]

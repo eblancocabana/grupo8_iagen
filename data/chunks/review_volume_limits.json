@@ -1,0 +1,35 @@
+[
+  {
+    "chunk_id": "review_volume_limits_chunk_000",
+    "doc_id": "review_volume_limits",
+    "section": "Experience Level",
+    "page": null,
+    "text": "Beginners generally need less weekly volume than intermediate or advanced trainees. A plan should avoid disproportionate workloads in the first block, especially if the user also has restrictions or limited session time.",
+    "topic": "volume",
+    "evidence_level": "moderate_high",
+    "title": "Evidence Brief - Volume Limits by Experience Level",
+    "year": 2022
+  },
+  {
+    "chunk_id": "review_volume_limits_chunk_001",
+    "doc_id": "review_volume_limits",
+    "section": "Upper Bounds",
+    "page": null,
+    "text": "A moderate number of weekly work sets per movement pattern is usually enough for a prototype. When volume rises too quickly, the quality of execution and the clarity of recovery feedback can deteriorate. This is especially relevant when sessions are short.",
+    "topic": "volume",
+    "evidence_level": "moderate_high",
+    "title": "Evidence Brief - Volume Limits by Experience Level",
+    "year": 2022
+  },
+  {
+    "chunk_id": "review_volume_limits_chunk_002",
+    "doc_id": "review_volume_limits",
+    "section": "Validator Use",
+    "page": null,
+    "text": "Heuristic limits are acceptable if they are simple, conservative, and applied consistently across modes. The goal is to detect obviously high workloads, not to solve individualized dose optimization.",
+    "topic": "volume",
+    "evidence_level": "moderate_high",
+    "title": "Evidence Brief - Volume Limits by Experience Level",
+    "year": 2022
+  }
+]

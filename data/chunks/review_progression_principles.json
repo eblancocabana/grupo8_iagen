@@ -1,0 +1,35 @@
+[
+  {
+    "chunk_id": "review_progression_principles_chunk_000",
+    "doc_id": "review_progression_principles",
+    "section": "Simple Progression",
+    "page": null,
+    "text": "A short academic prototype only needs clear and defensible progression, not advanced periodization. A useful rule is to keep the first week conservative, stabilize in the second week, and raise volume or effort slightly in weeks three and four.",
+    "topic": "progression",
+    "evidence_level": "moderate_high",
+    "title": "Evidence Brief - Simple Progression Principles Across Four Weeks",
+    "year": 2018
+  },
+  {
+    "chunk_id": "review_progression_principles_chunk_001",
+    "doc_id": "review_progression_principles",
+    "section": "What To Progress",
+    "page": null,
+    "text": "The easiest variables to progress are repetitions, sets on primary lifts, or a small load increase when execution is stable. Progression should be visible in the plan output so that validators can inspect it automatically.",
+    "topic": "progression",
+    "evidence_level": "moderate_high",
+    "title": "Evidence Brief - Simple Progression Principles Across Four Weeks",
+    "year": 2018
+  },
+  {
+    "chunk_id": "review_progression_principles_chunk_002",
+    "doc_id": "review_progression_principles",
+    "section": "Boundary Conditions",
+    "page": null,
+    "text": "Progression should not override restriction management or session duration limits. If the plan is already near the time limit, small load changes or rep targets may be better than adding many new sets.",
+    "topic": "progression",
+    "evidence_level": "moderate_high",
+    "title": "Evidence Brief - Simple Progression Principles Across Four Weeks",
+    "year": 2018
+  }
+]

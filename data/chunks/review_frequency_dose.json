@@ -1,0 +1,35 @@
+[
+  {
+    "chunk_id": "review_frequency_dose_chunk_000",
+    "doc_id": "review_frequency_dose",
+    "section": "Frequency",
+    "page": null,
+    "text": "Weekly frequency should match the time the user can actually sustain. Two sessions often require full-body programming. Three sessions allow a stable full-body rotation. Four or more sessions can distribute upper and lower work more evenly if recovery remains acceptable.",
+    "topic": "frequency",
+    "evidence_level": "moderate_high",
+    "title": "Evidence Brief - Weekly Frequency and Dose Distribution",
+    "year": 2021
+  },
+  {
+    "chunk_id": "review_frequency_dose_chunk_001",
+    "doc_id": "review_frequency_dose",
+    "section": "Distribution",
+    "page": null,
+    "text": "Total workload can be split across the week without forcing extremely long sessions. When users have short sessions, spreading work across more days is often better than compressing every pattern into one day. Frequency should serve recoverability and schedule realism.",
+    "topic": "frequency",
+    "evidence_level": "moderate_high",
+    "title": "Evidence Brief - Weekly Frequency and Dose Distribution",
+    "year": 2021
+  },
+  {
+    "chunk_id": "review_frequency_dose_chunk_002",
+    "doc_id": "review_frequency_dose",
+    "section": "Practical Note",
+    "page": null,
+    "text": "The same weekly dose can be tolerated differently depending on how it is distributed. Plans should therefore check both weekly volume and session duration, not only one of them.",
+    "topic": "frequency",
+    "evidence_level": "moderate_high",
+    "title": "Evidence Brief - Weekly Frequency and Dose Distribution",
+    "year": 2021
+  }
+]

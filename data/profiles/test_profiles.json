@@ -1,0 +1,147 @@
+[
+  {
+    "profile_id": "p01_beginner_hypertrophy_home",
+    "age": 28,
+    "experience_level": "beginner",
+    "goal": "hypertrophy",
+    "days_per_week": 3,
+    "session_duration_min": 60,
+    "equipment": "home_basic",
+    "movement_restrictions": [],
+    "exercise_preferences": ["likes_dumbbells"],
+    "notes_optional": "Prefers simple routines."
+  },
+  {
+    "profile_id": "p02_intermediate_strength_gym",
+    "age": 35,
+    "experience_level": "intermediate",
+    "goal": "strength",
+    "days_per_week": 4,
+    "session_duration_min": 70,
+    "equipment": "gym",
+    "movement_restrictions": [],
+    "exercise_preferences": ["barbell_variants"],
+    "notes_optional": "Wants efficient sessions."
+  },
+  {
+    "profile_id": "p03_general_health_bodyweight",
+    "age": 44,
+    "experience_level": "beginner",
+    "goal": "general_health",
+    "days_per_week": 2,
+    "session_duration_min": 40,
+    "equipment": "bodyweight",
+    "movement_restrictions": ["avoid_high_impact"],
+    "exercise_preferences": [],
+    "notes_optional": "Joint-friendly options only."
+  },
+  {
+    "profile_id": "p04_beginner_overhead_restriction",
+    "age": 31,
+    "experience_level": "beginner",
+    "goal": "hypertrophy",
+    "days_per_week": 3,
+    "session_duration_min": 50,
+    "equipment": "home_basic",
+    "movement_restrictions": ["avoid_overhead_pressing"],
+    "exercise_preferences": ["dumbbells"],
+    "notes_optional": "Shoulder gets irritated in overhead positions."
+  },
+  {
+    "profile_id": "p05_intermediate_knee_restriction",
+    "age": 39,
+    "experience_level": "intermediate",
+    "goal": "general_health",
+    "days_per_week": 3,
+    "session_duration_min": 55,
+    "equipment": "gym",
+    "movement_restrictions": ["avoid_deep_knee_flexion"],
+    "exercise_preferences": [],
+    "notes_optional": "Needs conservative lower-body range."
+  },
+  {
+    "profile_id": "p06_advanced_strength_short_sessions",
+    "age": 29,
+    "experience_level": "advanced",
+    "goal": "strength",
+    "days_per_week": 5,
+    "session_duration_min": 45,
+    "equipment": "gym",
+    "movement_restrictions": [],
+    "exercise_preferences": ["short_sessions"],
+    "notes_optional": "Needs dense but realistic programming."
+  },
+  {
+    "profile_id": "p07_beginner_lumbar_restriction",
+    "age": 33,
+    "experience_level": "beginner",
+    "goal": "general_health",
+    "days_per_week": 2,
+    "session_duration_min": 45,
+    "equipment": "home_basic",
+    "movement_restrictions": ["avoid_loaded_lumbar_flexion"],
+    "exercise_preferences": [],
+    "notes_optional": "Wants a safe entry point."
+  },
+  {
+    "profile_id": "p08_intermediate_hypertrophy_gym",
+    "age": 27,
+    "experience_level": "intermediate",
+    "goal": "hypertrophy",
+    "days_per_week": 4,
+    "session_duration_min": 65,
+    "equipment": "gym",
+    "movement_restrictions": [],
+    "exercise_preferences": ["machine_mix"],
+    "notes_optional": "Open to repeated movements."
+  },
+  {
+    "profile_id": "p09_beginner_bodyweight_three_days",
+    "age": 24,
+    "experience_level": "beginner",
+    "goal": "general_health",
+    "days_per_week": 3,
+    "session_duration_min": 35,
+    "equipment": "bodyweight",
+    "movement_restrictions": [],
+    "exercise_preferences": [],
+    "notes_optional": "Needs fully home-friendly sessions."
+  },
+  {
+    "profile_id": "p10_intermediate_home_strength",
+    "age": 41,
+    "experience_level": "intermediate",
+    "goal": "strength",
+    "days_per_week": 3,
+    "session_duration_min": 55,
+    "equipment": "home_basic",
+    "movement_restrictions": ["avoid_high_impact"],
+    "exercise_preferences": ["dumbbells", "bands"],
+    "notes_optional": "No jumping."
+  },
+  {
+    "profile_id": "p11_advanced_general_health_gym",
+    "age": 37,
+    "experience_level": "advanced",
+    "goal": "general_health",
+    "days_per_week": 4,
+    "session_duration_min": 60,
+    "equipment": "gym",
+    "movement_restrictions": ["avoid_overhead_pressing"],
+    "exercise_preferences": [],
+    "notes_optional": "Needs sustainable moderate effort."
+  },
+  {
+    "profile_id": "p12_beginner_hypertrophy_bodyweight",
+    "age": 22,
+    "experience_level": "beginner",
+    "goal": "hypertrophy",
+    "days_per_week": 2,
+    "session_duration_min": 40,
+    "equipment": "bodyweight",
+    "movement_restrictions": [],
+    "exercise_preferences": [],
+    "notes_optional": "Very limited equipment."
+  }
+]
+

@@ -1,0 +1,10 @@
+# Frequency and Dose Distribution
+
+Frequency:
+Weekly frequency should match the time the user can actually sustain. Two sessions often require full-body programming. Three sessions allow a stable full-body rotation. Four or more sessions can distribute upper and lower work more evenly if recovery remains acceptable.
+
+Distribution:
+Total workload can be split across the week without forcing extremely long sessions. When users have short sessions, spreading work across more days is often better than compressing every pattern into one day. Frequency should serve recoverability and schedule realism.
+
+Practical Note:
+The same weekly dose can be tolerated differently depending on how it is distributed. Plans should therefore check both weekly volume and session duration, not only one of them.
