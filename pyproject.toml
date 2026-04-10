@@ -12,6 +12,19 @@ dependencies = [
   "pydantic>=2.8,<3",
   "requests>=2.32",
   "python-dotenv>=1.0",
+  "pandas>=2.2",
+]
+
+[project.optional-dependencies]
+ui = [
+  "streamlit>=1.42",
+]
+rag = [
+  "chromadb>=1.0",
+  "pymupdf>=1.25",
+]
+dev = [
+  "pytest>=8.3",
 ]
 
 [tool.pytest.ini_options]
